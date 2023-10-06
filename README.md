@@ -7,13 +7,16 @@
 - 💬 Ask me about infrastructure
 - ⚡ Fun fact: I've been using technology since I was six years old
 - 📫 How to reach me:  
-
+<div>
 <a href=" https://br.linkedin.com/in/dylan-oliveira-machado-78b879182?trk=public_profile_browsemap " target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ## Some tools and technologies that I work with...
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+</div>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />                              
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
