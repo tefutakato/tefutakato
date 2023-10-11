@@ -6,7 +6,9 @@
 - 🤔 I’m looking for help with infrastructure
 - 💬 Ask me about infrastructure
 - ⚡ Fun fact: I've been using technology since I was six years old
-- 📫 How to reach me => <a href=" https://br.linkedin.com/in/dylan-oliveira-machado-78b879182?trk=public_profile_browsemap " target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+- 📫 How to reach me => https://br.linkedin.com/in/dylan-oliveira-machado-78b879182?trk=public_profile_browsemap
+
+<a href=" https://br.linkedin.com/in/dylan-oliveira-machado-78b879182?trk=public_profile_browsemap " target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 ## Some tools and technologies that I work with...
 
