@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+<!-- ## 📊 My GitHub Stats
 
 <a href="https://github.com/tefutakato">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tefutakato&layout=compact&langs_count=7&theme=dracula"/> 
@@ -45,5 +45,6 @@
 <a href="https://github.com/tefutakato">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tefutakato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </a>
+-->
 
-![Snake animation](https://github.com/tefutakato/tefutakato/blob/output/github-contribution-grid-snake.svg) 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6596ab3bae22c1252320afcf?variant=dark&roadmaps=full-stack%2Clinux%2Cdevops%2Cdocker" alt="roadmap.sh"/></a>
