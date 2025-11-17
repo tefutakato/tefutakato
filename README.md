@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 HashiCorp Stack & DevOps Tools
+## 🚀 DevOps Tools
 
 <p align="center">
   <!-- HashiCorp Tools -->
